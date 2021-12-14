@@ -1,2 +1,3 @@
 # hyperblog
-UN blog increíble para el curso de platzi
+Estamos modificando el README desde el MAIN, no se por qué putas no me unifica el master y el main.......
+
