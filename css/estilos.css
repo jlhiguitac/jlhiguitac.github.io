@@ -46,6 +46,12 @@ body
    font-size: 20px;
 }
 
+#container h2
+{
+   font-size: 20px;
+   background: red;
+}
+
 #post
 {
    background: white;
