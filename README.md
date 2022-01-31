@@ -8,10 +8,10 @@ Un blog increíble para el [curso de Git y GitHub](http://platzi.com/clases/git-
 * Flujo de trabajo en GitHub
 * El verdadero amor por las buenas prácticas
 * Trucos muy locos del profesor
-* CREADO PARA LA CLASE
-Y como un amable recordatorio: **Este readme.md es un chiste**. Diseñado oara el ejemplo. Sí llegas a esto **NO TE LO TOMES EN SERIO** y mejor ve a [ver el curso.](http://platzi.com/clases/git-github/ "curso de Git y GitHub")
-*Incluye ejemplos para Windows, Linux y Mac
-*DIsponible para todas laas edades
+* **CREADO PARA LA CLASE cherry-pick*
+* Y como un amable recordatorio: **Este readme.md es un chiste**. Diseñado oara el ejemplo. Sí llegas a esto **NO TE LO TOMES EN SERIO** y mejor ve a [ver el curso.](http://platzi.com/clases/git-github/ "curso de Git y GitHub")
+* **Incluye ejemplos para Windows, Linux y Mac**
+* **Disponible para todas laas edades**
 
 Y como un amable recordatorio: **Este readme.md es un chiste**. Diseñado para el ejemplo. Sí llegas a esto **NO TE LO TOMES EN SERIO** y mejor ve a [ver el curso.](http://platzi.com/clases/git-github/ "curso de Git y GitHub")
 
